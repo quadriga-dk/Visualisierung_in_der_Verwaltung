@@ -28,6 +28,6 @@ Anhand modellhafter Forschungsfragen werden für die drei Datentypen Bewegtes Bi
 
 QUADRIGA ist ein Verbundprojekt mehrerer Institutionen, das von der Universität Potsdam koordiniert wird. Partner sind die Fachhochschule Potsdam, die Filmuniversität Babelsberg, das Fraunhofer FOKUS, die Freie Universität Berlin, die Humboldt-Universität zu Berlin, die Technische Universität Berlin und die Gesellschaft für Informatik.  
 
-<a href="https://quadriga-dk.github.io/Tabelle-Fallstudie-1/epilog/fragen_und_feedback.html" target="_blank">Fragen und Feedback</a> zu die OER können Sie uns sowohl über GitHub Issues als auch über Email zukommen lassen.  
+<a href="https://quadriga-dk.github.io/Tabelle-Fallstudie-3/epilog/fragen_und_feedback.html" target="_blank">Fragen und Feedback</a> zu die OER können Sie uns sowohl über GitHub Issues als auch über Email zukommen lassen.  
 
 Bei Fragen zum Projekt wenden Sie sich gerne an die [Projektkoordination](mailto:quadriga-helpdesk@listserv.dfn.de?subject=[GitHub]%20Tabelle-Fallstudie-1). 
