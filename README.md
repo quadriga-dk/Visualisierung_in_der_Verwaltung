@@ -1,4 +1,4 @@
-## Gieß den Kiez: Ein Dashboard für Baum- und Bewässerungsdaten
+# Ein Dashboard für Baum- und Bewässerungsdaten
 **📊 [Dashboard öffnen](https://quadriga-dk.github.io/GiessDenKiez/)**
 
 Dieses interaktive Dashboard ist eine praktische Ergänzung zur <a href="https://quadriga-dk.github.io/Tabelle-Fallstudie-3/intro.html" target="_blank">Tabelle Fallstudie 3</a>, einer OER des Projekts <a href="https://www.quadriga-dk.de" target="_blank">QUADRIGA</a>.
