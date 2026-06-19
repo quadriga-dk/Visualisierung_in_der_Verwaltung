@@ -17,7 +17,7 @@ library(plotly)
 bezirksgrenzen <- st_read("data/bezirksgrenzen.geojson", quiet = TRUE)
 
 # Bewässerungsdaten laden (Der gesamte Prozess für df_merged_final befindet sich in 3.2)
-df_merged <- readRDS("data/df_merged_final.rds")
+df_merged <- readRDS("data/df_merged.rds")
 
 # Bezirksgrenzen vorbereiten
 berlin_bezirke_sf <- bezirksgrenzen %>%
