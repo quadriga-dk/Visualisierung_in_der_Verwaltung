@@ -1,5 +1,5 @@
 # Ein Dashboard für Baum- und Bewässerungsdaten
-**📊 [Dashboard öffnen](https://quadriga-dk.github.io/GiessDenKiez/)**
+**📊 [Dashboard öffnen](https://quadriga-dk.github.io/Visualisierung_in_der_Verwaltung/)**
 
 Dieses interaktive Dashboard ist eine praktische Ergänzung zur 
 [Tabelle Fallstudie 3](https://quadriga-dk.github.io/Tabelle-Fallstudie-3/intro.html), 
